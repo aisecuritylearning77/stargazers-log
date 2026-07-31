@@ -1,0 +1,26 @@
+[
+  {
+    "name": "octocat/Hello-World",
+    "description": "My first repository on GitHub, demonstrating basic concepts.",
+    "stars": 1500,
+    "language": "JavaScript",
+    "url": "https://github.com/octocat/Hello-World",
+    "starred_at": "2026-07-30T12:00:00Z"
+  },
+  {
+    "name": "github/docs",
+    "description": "Documentation repo for GitHub, including guides and how-tos.",
+    "stars": 18000,
+    "language": "Markdown",
+    "url": "https://github.com/github/docs",
+    "starred_at": "2026-07-15T09:30:00Z"
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code - the open source code editor.",
+    "stars": 150000,
+    "language": "TypeScript",
+    "url": "https://github.com/microsoft/vscode",
+    "starred_at": "2026-07-01T18:45:00Z"
+  }
+]
